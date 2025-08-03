@@ -1,0 +1,1 @@
+# powerbi-m2m-bridge-categories
